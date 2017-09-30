@@ -1,4 +1,6 @@
 # Tyler D Hitzeman
+![Alt text](/images/headshot.jpg?raw=true "Me")
+
 #### Software Engineer
 #### [LinkedIn](https://www.linkedin.com/in/tyler-hitzeman/)
 &nbsp;
